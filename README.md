@@ -1,6 +1,6 @@
 # Casper
 
-This is the [Ghost](https://github.com/tryghost/ghost/) theme of [angristan.xyz](https://angristan.xyz), based on [Casper](https://github.com/TryGhost/Casper).
+This is the [Ghost](https://github.com/tryghost/ghost/) theme of [kappie.xyz](https://kappie.xyz), [angristan.xyz](https://angristan.xyz),based on [Casper](https://github.com/TryGhost/Casper).
 
 For more information regarding how to use the theme with Ghost, please refer to the [original README](https://github.com/TryGhost/Casper)
 
@@ -8,6 +8,7 @@ For more information regarding how to use the theme with Ghost, please refer to 
 
 List of the modifications made in this fork:
 
+* [Add Github icon] (https://github.com/Picus13/) 
 * [Custom CSS (commented)](https://github.com/Angristan/Casper-XYZ/blob/master/assets/css/custom.css)
 * [Removed share buttons in the header](https://github.com/Angristan/Casper-XYZ/commit/b4530b973a71bcdfce82c02572525171a5fa9159)
 * [Replaced Feedly links by original RSS links](https://github.com/Angristan/Casper-XYZ/commit/c618bc702969c217b6f48277244b6bf04b4e46bd)
