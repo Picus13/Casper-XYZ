@@ -1,7 +1,7 @@
 {
-    "name": "casper-xyz",
-    "description": "This is the Ghost theme of angristan.xyz, based on Casper.",
-    "demo": "https://angristan.xyz",
+    "name": "casperyze",
+    "description": "This is the Ghost theme of kappie.xyz, based on Casper and casper-xye of angristan.xyz",
+    "demo": "https://kappie.xyz",
     "version": "2.5.0",
     "engines": {
         "ghost": ">=2.0.0"
@@ -35,10 +35,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Angristan/Casper.git"
+        "url": "https://github.com/Picus13/Casperyze.git"
     },
-    "bugs": "https://github.com/Angristan/Casper/issues",
-    "contributors": "https://github.com/Angristan/Casper/graphs/contributors",
+    "bugs": "https://github.com/Picus13/Casperyze/issues",
+    "contributors": "https://github.com/Picus13/Casperyze/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "6.3.6",
         "cssnano": "3.7.1",

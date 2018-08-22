@@ -167,7 +167,7 @@ body {
 }
 
 .site-logo {
-    max-height: 45px;
+    max-height: 150px;
 }
 
 .site-description {
@@ -321,6 +321,10 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 .social-link-wb svg path {
     stroke: #fff;
+}
+
+.social-link-gt svg {
+    height: 1.5rem,
 }
 
 .social-link-rss svg {
