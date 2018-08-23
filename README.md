@@ -8,7 +8,8 @@ For more information regarding how to use the theme with Ghost, please refer to 
 
 List of the modifications made in this fork:
 
-* [Add Github icon](https://github.com/Picus13/Casperyze/commit/0a03437026ffc3068bd80936ef50aa3ceefcd3ad
+
+* [Add Github icon](https://github.com/Picus13/Casperyze/commit/0a03437026ffc3068bd80936ef50aa3ceefcd3ad)
 * [CSS Comment](https://github.com/Angristan/Casper-XYZ/blob/master/assets/css/custom.css)
 * [Removed share buttons in the header](https://github.com/Angristan/Casper-XYZ/commit/b4530b973a71bcdfce82c02572525171a5fa9159)
 * [Replaced Feedly links by original RSS links](https://github.com/Angristan/Casper-XYZ/commit/c618bc702969c217b6f48277244b6bf04b4e46bd)
@@ -21,6 +22,8 @@ List of the modifications made in this fork:
 
 I try to make the theme reusable as possible, but I still have to hardcode some stuff.
 
+* Github Icon : Ok
+* Block Isso Comment Sys, need to install my instance
 * [Isso comments block](https://github.com/Angristan/Casper-XYZ/blob/master/post.hbs#L71)
 
 
