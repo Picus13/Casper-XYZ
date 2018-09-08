@@ -1,6 +1,6 @@
-# Casper
+# Casperyze
 
-This is the [Ghost](https://github.com/tryghost/ghost/) theme of [kappie.xyz](https://kappie.xyz), [angristan.xyz](https://angristan.xyz),based on [Casper](https://github.com/TryGhost/Casper).
+This is the [Ghost](https://github.com/tryghost/ghost/) theme of [kappie.xyz](https://kappie.xyz), based on [Casper](https://github.com/TryGhost/Casper)and a fork of [Casper-xyz](https://github.com/angristan/Casper-XYZ) of [angristan.xyz](https://angristan.xyz).
 
 For more information regarding how to use the theme with Ghost, please refer to the [original README](https://github.com/TryGhost/Casper)
 
@@ -8,8 +8,12 @@ For more information regarding how to use the theme with Ghost, please refer to 
 
 List of the modifications made in this fork:
 
-
+* [Add CC-Banner on footer](h)
+* [Replace Copyright by a Copyleft in footer](h)
+* [Add Mastodon icon](h)
 * [Add Github icon](https://github.com/Picus13/Casperyze/commit/0a03437026ffc3068bd80936ef50aa3ceefcd3ad)
+
+Fork made by [angristan.xyz](https://angristan.xyz) :
 * [CSS Comment](https://github.com/Angristan/Casper-XYZ/blob/master/assets/css/custom.css)
 * [Removed share buttons in the header](https://github.com/Angristan/Casper-XYZ/commit/b4530b973a71bcdfce82c02572525171a5fa9159)
 * [Replaced Feedly links by original RSS links](https://github.com/Angristan/Casper-XYZ/commit/c618bc702969c217b6f48277244b6bf04b4e46bd)
@@ -22,8 +26,8 @@ List of the modifications made in this fork:
 
 I try to make the theme reusable as possible, but I still have to hardcode some stuff.
 
-* Github Icon : Ok
-* Block Isso Comment Sys, need to install my instance
+* Copyleft + Creative Commons Banner on footer
+* Github & Mastodon Icon
 * [Isso comments block](https://github.com/Angristan/Casper-XYZ/blob/master/post.hbs#L71)
 
 

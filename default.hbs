@@ -29,9 +29,10 @@
         {{!-- The footer at the very bottom of the screen --}}
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
-                <section class="copyright"><a href="{{@blog.url}}">{{@blog.title}}</a> &copy; {{date format="YYYY"}}</section>
+                <section class="copyright"><a href="{{@blog.url}}">{{@blog.title}}</a> <span class="copy-left"> &copy;</span> {{date format="YYYY"}}</section>
+                <section class="creative commons"><img src="{{asset "/media/CC-BY-SA.png"}}" alt="Pictograme de la creative commons"></section>
                 <nav class="site-footer-nav">
-                    <a href="{{@blog.url}}/about/">About</a>
+                    <a href="{{@blog.url}}/a-propos/">A propos</a>
                 </nav>
             </div>
         </footer>

@@ -74,7 +74,7 @@
 }
 
 /* Make the first paragraph the same size as the post */
-.post-template .kg-card-markdown>p:first-child, .post-template .post-content>p:first-child {
+.post-template .post-content>p:first-child {
     font-size: inherit;
     line-height: inherit;
 }
@@ -132,6 +132,24 @@
 /* Fix the blog title */
 .floating-header-blog-title {
     margin-right: 1px;
+}
+
+/* Center the CC Banner in footer */
+.creativecommons {
+    align-content: center;
+}
+
+/* Replace Copyright by a Copyleft in footer */
+.copy-left {
+    display: inline-block;
+    text-align: right;
+    margin: 0;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
 }
 
 /* Fix Isso vote bar styling */
