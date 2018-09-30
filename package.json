@@ -2,7 +2,7 @@
     "name": "casperyze",
     "description": "This is the Ghost theme of kappie.xyz, based on Casper and casper-xye of angristan.xyz",
     "demo": "https://kappie.xyz",
-    "version": "2.5.0",
+    "version": "2.6.0",
     "engines": {
         "ghost": ">=2.0.0"
     },
