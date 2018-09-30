@@ -1,6 +1,6 @@
 # Casperyze
 
-This is the [Ghost](https://github.com/tryghost/ghost/) theme of [kappie.xyz](https://kappie.xyz), based on [Casper](https://github.com/TryGhost/Casper)and a fork of [Casper-xyz](https://github.com/angristan/Casper-XYZ) of [angristan.xyz](https://angristan.xyz).
+This is the [Ghost](https://github.com/tryghost/ghost/) theme of [kappie.xyz](https://kappie.xyz), based on [Casper](https://github.com/TryGhost/Casper) and a fork of [Casper-xyz](https://github.com/angristan/Casper-XYZ) of [angristan.xyz](https://angristan.xyz).
 
 For more information regarding how to use the theme with Ghost, please refer to the [original README](https://github.com/TryGhost/Casper)
 
@@ -8,9 +8,9 @@ For more information regarding how to use the theme with Ghost, please refer to 
 
 List of the modifications made in this fork:
 
-* [Add CC-Banner on footer](h)
-* [Replace Copyright by a Copyleft in footer](h)
-* [Add Mastodon icon](h)
+* [Add CC-Banner on footer](https://github.com/Picus13/Casperyze/commit/19010b50b70b25818ac070a6524a62fca0c2e462)
+* [Replace Copyright by a Copyleft in footer](https://github.com/Picus13/Casperyze/commit/19010b50b70b25818ac070a6524a62fca0c2e462)
+* [Add Mastodon icon](https://github.com/Picus13/Casperyze/commit/d06551b26de20e8f9ed531784bf070ad1b946373)
 * [Add Github icon](https://github.com/Picus13/Casperyze/commit/0a03437026ffc3068bd80936ef50aa3ceefcd3ad)
 
 Fork made by [angristan.xyz](https://angristan.xyz) :
