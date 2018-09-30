@@ -8,6 +8,7 @@ For more information regarding how to use the theme with Ghost, please refer to 
 
 List of the modifications made in this fork:
 
+* [Add Keybase icon](https://github.com/Picus13/Casperyze/commit/b9f397fe34fc0d059ec319f5a29b34d44a95d5b5)
 * [Add CC-Banner on footer](https://github.com/Picus13/Casperyze/commit/19010b50b70b25818ac070a6524a62fca0c2e462)
 * [Replace Copyright by a Copyleft in footer](https://github.com/Picus13/Casperyze/commit/19010b50b70b25818ac070a6524a62fca0c2e462)
 * [Add Mastodon icon](https://github.com/Picus13/Casperyze/commit/d06551b26de20e8f9ed531784bf070ad1b946373)
@@ -26,6 +27,7 @@ Fork made by [angristan.xyz](https://angristan.xyz) :
 
 I try to make the theme reusable as possible, but I still have to hardcode some stuff.
 
+* Keybase Icon 
 * Copyleft + Creative Commons Banner on footer
 * Github & Mastodon Icon
 * [Isso comments block](https://github.com/Angristan/Casper-XYZ/blob/master/post.hbs#L71)
