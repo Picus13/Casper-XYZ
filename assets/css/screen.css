@@ -327,6 +327,10 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     height: 1.5rem,
 }
 
+.social-link-kb svg {
+    height: 1.6rem
+}
+
 .social-link-rss svg {
     height: 1.9rem;
 }
